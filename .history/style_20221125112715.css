@@ -39,6 +39,7 @@ img{
     align-items: center;
     justify-content: center;
     padding-bottom: 1rem;
+    box-shadow: 1px 1px 10px #212529;
 }
 .pic{
     width:200px;

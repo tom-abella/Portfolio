@@ -17,7 +17,7 @@ img{
 
 }
 .card{
-    box-shadow: 1px 1px 10px #212529;
+    box-shadow: 1px 1px 1px #212529;
 }
 .navbar .nav-link.active{
     color:grey;
